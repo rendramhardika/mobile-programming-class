@@ -1,0 +1,9 @@
+<resources>
+
+  <string name="app_name">Firebase Push Notification</string>
+
+  <string name="channel_id" translatable="false">ridho-channel</string>
+  <string name="channel_name" translatable="false">ridho</string>
+  <string name="str_firebase_push_notification_demo">Firebase Push Notification Android Example</string>
+
+</resources>
